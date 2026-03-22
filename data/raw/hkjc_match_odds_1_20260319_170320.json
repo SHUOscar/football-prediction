@@ -1,0 +1,4117 @@
+{
+  "data": {
+    "matches": [
+      {
+        "id": "50064403",
+        "frontEndId": "FB5823",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.27.UE Cup                                                                                                                          .0.99.Lyon                                                                                                                            .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50001978",
+          "name_en": "Lyon",
+          "name_ch": "\u91cc\u6602"
+        },
+        "awayTeam": {
+          "id": "50000694",
+          "name_en": "Celta Vigo",
+          "name_ch": "\u5207\u723e\u9054"
+        },
+        "tournament": {
+          "id": "50053663",
+          "frontEndId": "FB3534",
+          "nameProfileId": "50000114",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEC",
+          "name_en": "UE Cup",
+          "name_ch": "\u6b50\u9738\u76c3"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [
+          {
+            "code": "639",
+            "name_en": "Now 639",
+            "name_ch": "Now 639"
+          }
+        ],
+        "liveEvents": [
+          {
+            "id": "69351104",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "SGA20",
+            "FHL",
+            "SGA16",
+            "CHD",
+            "CRS",
+            "SGA6",
+            "TTG",
+            "SGA10",
+            "SGA11",
+            "SGA15",
+            "SGA17",
+            "SGA1",
+            "CHL",
+            "FHC",
+            "SGA4",
+            "OOE",
+            "SGA3",
+            "SGA13",
+            "FHA",
+            "FCH",
+            "SGA7",
+            "FCS",
+            "SGA18",
+            "FHH",
+            "HDC",
+            "HIL",
+            "SGA5",
+            "SGA9",
+            "FTS",
+            "SGA2",
+            "HAD",
+            "HFT",
+            "LGS",
+            "SGA8",
+            "SGA14",
+            "FGS",
+            "AGS",
+            "SGA12",
+            "SGA19",
+            "HHA",
+            "TQL10"
+          ],
+          "inplayPools": [
+            "FHL",
+            "CRS",
+            "TTG",
+            "CHL",
+            "FHA",
+            "FCH",
+            "FCS",
+            "HIL",
+            "HAD",
+            "HHA",
+            "TQL10"
+          ],
+          "sellingPools": [
+            "SGA20",
+            "FHL",
+            "SGA16",
+            "CHD",
+            "CRS",
+            "SGA6",
+            "TTG",
+            "SGA10",
+            "SGA11",
+            "SGA15",
+            "SGA17",
+            "SGA1",
+            "CHL",
+            "FHC",
+            "SGA4",
+            "OOE",
+            "SGA3",
+            "SGA13",
+            "FHA",
+            "FCH",
+            "SGA7",
+            "FCS",
+            "SGA18",
+            "FHH",
+            "HDC",
+            "HIL",
+            "SGA5",
+            "SGA9",
+            "FTS",
+            "SGA2",
+            "HAD",
+            "HFT",
+            "LGS",
+            "SGA8",
+            "SGA14",
+            "FGS",
+            "AGS",
+            "SGA12",
+            "SGA19",
+            "HHA",
+            "TQL10"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "SGA20",
+            "FHL",
+            "SGA16",
+            "CHD",
+            "CRS",
+            "SGA6",
+            "TTG",
+            "SGA10",
+            "SGA11",
+            "SGA15",
+            "SGA17",
+            "SGA1",
+            "CHL",
+            "FHC",
+            "SGA4",
+            "OOE",
+            "SGA3",
+            "SGA13",
+            "FHA",
+            "FCH",
+            "SGA7",
+            "FCS",
+            "SGA18",
+            "FHH",
+            "HDC",
+            "HIL",
+            "SGA5",
+            "SGA9",
+            "FTS",
+            "SGA2",
+            "HAD",
+            "HFT",
+            "LGS",
+            "SGA8",
+            "SGA14",
+            "FGS",
+            "AGS",
+            "SGA12",
+            "SGA19",
+            "HHA",
+            "TQL10"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1524492001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.87",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.45",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.25",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524497006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "0.0/-0.5",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.75",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.09",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524503012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "9.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.30",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.35",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.80",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.30",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "9.25",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "18.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "25.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064877",
+        "frontEndId": "FB5837",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.27.UE Cup                                                                                                                          .0.99.Midtjylland                                                                                                                     .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50002115",
+          "name_en": "Midtjylland",
+          "name_ch": "\u7c73\u8fea\u862d\u7279"
+        },
+        "awayTeam": {
+          "id": "50002302",
+          "name_en": "Nottingham Forest",
+          "name_ch": "\u8afe\u5b9a\u54b8\u68ee\u6797"
+        },
+        "tournament": {
+          "id": "50053663",
+          "frontEndId": "FB3534",
+          "nameProfileId": "50000114",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEC",
+          "name_en": "UE Cup",
+          "name_ch": "\u6b50\u9738\u76c3"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [
+          {
+            "code": "643",
+            "name_en": "Now 643",
+            "name_ch": "Now 643"
+          }
+        ],
+        "liveEvents": [
+          {
+            "id": "69351098",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "SGA9",
+            "HDC",
+            "FTS",
+            "SGA2",
+            "SGA16",
+            "SGA6",
+            "SGA1",
+            "HHA",
+            "FHA",
+            "MSP2",
+            "SGA12",
+            "SGA19",
+            "SGA10",
+            "SGA14",
+            "SGA5",
+            "FGS",
+            "CRS",
+            "SGA4",
+            "FCH",
+            "MSP1",
+            "OOE",
+            "HIL",
+            "HAD",
+            "SGA17",
+            "FHL",
+            "HFT",
+            "SGA11",
+            "MSP3",
+            "FCS",
+            "SGA15",
+            "FHH",
+            "LGS",
+            "CHL",
+            "SGA3",
+            "TTG",
+            "SGA8",
+            "CHD",
+            "SGA13",
+            "SGA7",
+            "AGS",
+            "FHC",
+            "SGA18",
+            "SGA20",
+            "TQL11"
+          ],
+          "inplayPools": [
+            "HHA",
+            "FHA",
+            "CRS",
+            "FCH",
+            "HIL",
+            "HAD",
+            "FHL",
+            "FCS",
+            "CHL",
+            "TTG",
+            "TQL11"
+          ],
+          "sellingPools": [
+            "SGA9",
+            "HDC",
+            "FTS",
+            "SGA2",
+            "SGA16",
+            "SGA6",
+            "SGA1",
+            "HHA",
+            "FHA",
+            "MSP2",
+            "SGA12",
+            "SGA19",
+            "SGA10",
+            "SGA14",
+            "SGA5",
+            "FGS",
+            "CRS",
+            "SGA4",
+            "FCH",
+            "OOE",
+            "HIL",
+            "HAD",
+            "SGA17",
+            "FHL",
+            "HFT",
+            "SGA11",
+            "FCS",
+            "SGA15",
+            "FHH",
+            "LGS",
+            "CHL",
+            "SGA3",
+            "TTG",
+            "SGA8",
+            "CHD",
+            "SGA13",
+            "SGA7",
+            "AGS",
+            "FHC",
+            "SGA18",
+            "SGA20",
+            "TQL11"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "SGA9",
+            "HDC",
+            "FTS",
+            "SGA2",
+            "SGA16",
+            "SGA6",
+            "SGA1",
+            "HHA",
+            "FHA",
+            "MSP2",
+            "SGA12",
+            "SGA19",
+            "SGA10",
+            "SGA14",
+            "SGA5",
+            "FGS",
+            "CRS",
+            "SGA4",
+            "FCH",
+            "MSP1",
+            "OOE",
+            "HIL",
+            "HAD",
+            "SGA17",
+            "FHL",
+            "HFT",
+            "SGA11",
+            "MSP3",
+            "FCS",
+            "SGA15",
+            "FHH",
+            "LGS",
+            "CHL",
+            "SGA3",
+            "TTG",
+            "SGA8",
+            "CHD",
+            "SGA13",
+            "SGA7",
+            "AGS",
+            "FHC",
+            "SGA18",
+            "SGA20",
+            "TQL11"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1539559001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.62",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.23",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.30",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1539564006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.08",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.76",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "lineId": "2",
+                "status": "SUSPENDED",
+                "condition": "0.0/+0.5",
+                "main": false,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.70",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.17",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1539570012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "10.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.50",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.45",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.70",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.10",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "8.25",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "18.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "24.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064401",
+        "frontEndId": "FB5821",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.27.UE Cup                                                                                                                          .1.99.Freiburg                                                                                                                        .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50001311",
+          "name_en": "Freiburg",
+          "name_ch": "\u5f17\u8cf4\u5821"
+        },
+        "awayTeam": {
+          "id": "50001352",
+          "name_en": "Genk",
+          "name_ch": "\u4ea8\u514b"
+        },
+        "tournament": {
+          "id": "50053663",
+          "frontEndId": "FB3534",
+          "nameProfileId": "50000114",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEC",
+          "name_en": "UE Cup",
+          "name_ch": "\u6b50\u9738\u76c3"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [],
+        "liveEvents": [
+          {
+            "id": "69351074",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "HIL",
+            "HFT",
+            "LGS",
+            "FCS",
+            "CRS",
+            "FHA",
+            "HHA",
+            "OOE",
+            "TTG",
+            "HDC",
+            "HAD",
+            "FTS",
+            "CHL",
+            "FGS",
+            "AGS",
+            "FHL",
+            "FCH",
+            "TQL12"
+          ],
+          "inplayPools": [],
+          "sellingPools": [
+            "HIL",
+            "HFT",
+            "LGS",
+            "FCS",
+            "CRS",
+            "FHA",
+            "HHA",
+            "OOE",
+            "TTG",
+            "HDC",
+            "HAD",
+            "FTS",
+            "CHL",
+            "FGS",
+            "AGS",
+            "FHL",
+            "FCH",
+            "TQL12"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "HIL",
+            "HFT",
+            "LGS",
+            "FCS",
+            "CRS",
+            "FHA",
+            "HHA",
+            "OOE",
+            "TTG",
+            "HDC",
+            "HAD",
+            "FTS",
+            "CHL",
+            "FGS",
+            "AGS",
+            "FHL",
+            "FCH",
+            "TQL12"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1524472001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.42",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.40",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.05",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524477006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "-1.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.92",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.90",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524483012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "12.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.30",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.60",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.65",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.75",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "7.00",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "14.50",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "19.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064777",
+        "frontEndId": "FB5833",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.28.UE Conference                                                                                                                   .0.99.AEK Larnaca                                                                                                                     .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50000015",
+          "name_en": "AEK Larnaca",
+          "name_ch": "AEK\u62c9\u4e9e\u62ff\u5361"
+        },
+        "awayTeam": {
+          "id": "50000905",
+          "name_en": "Crystal Palace",
+          "name_ch": "\u6c34\u6676\u5bae"
+        },
+        "tournament": {
+          "id": "50054465",
+          "frontEndId": "FB4508",
+          "nameProfileId": "50000113",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEF",
+          "name_en": "UE Conference",
+          "name_ch": "\u6b50\u6d32\u5354\u6703\u806f\u8cfd"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [
+          {
+            "code": "638",
+            "name_en": "Now 638",
+            "name_ch": "Now 638"
+          }
+        ],
+        "liveEvents": [
+          {
+            "id": "69352724",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "FCH",
+            "SGA14",
+            "FGS",
+            "SGA5",
+            "FHA",
+            "HHA",
+            "SGA10",
+            "SGA1",
+            "SGA2",
+            "HAD",
+            "HDC",
+            "SGA15",
+            "FHH",
+            "SGA9",
+            "SGA13",
+            "LGS",
+            "CHL",
+            "FCS",
+            "AGS",
+            "SGA20",
+            "SGA3",
+            "FHC",
+            "SGA12",
+            "SGA16",
+            "OOE",
+            "TTG",
+            "SGA8",
+            "CHD",
+            "FHL",
+            "CRS",
+            "SGA19",
+            "SGA17",
+            "SGA4",
+            "HFT",
+            "FTS",
+            "SGA6",
+            "HIL",
+            "SGA11",
+            "SGA7",
+            "SGA18",
+            "TQL8"
+          ],
+          "inplayPools": [
+            "FCH",
+            "FHA",
+            "HHA",
+            "HAD",
+            "CHL",
+            "FCS",
+            "TTG",
+            "FHL",
+            "CRS",
+            "HIL",
+            "TQL8"
+          ],
+          "sellingPools": [
+            "FCH",
+            "SGA14",
+            "FGS",
+            "SGA5",
+            "FHA",
+            "HHA",
+            "SGA10",
+            "SGA1",
+            "SGA2",
+            "HAD",
+            "HDC",
+            "SGA15",
+            "FHH",
+            "SGA9",
+            "SGA13",
+            "LGS",
+            "CHL",
+            "FCS",
+            "AGS",
+            "SGA20",
+            "SGA3",
+            "FHC",
+            "SGA12",
+            "SGA16",
+            "OOE",
+            "TTG",
+            "SGA8",
+            "CHD",
+            "FHL",
+            "CRS",
+            "SGA19",
+            "SGA17",
+            "SGA4",
+            "HFT",
+            "FTS",
+            "SGA6",
+            "HIL",
+            "SGA11",
+            "SGA7",
+            "SGA18",
+            "TQL8"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "FCH",
+            "SGA14",
+            "FGS",
+            "SGA5",
+            "FHA",
+            "HHA",
+            "SGA10",
+            "SGA1",
+            "SGA2",
+            "HAD",
+            "HDC",
+            "SGA15",
+            "FHH",
+            "SGA9",
+            "SGA13",
+            "LGS",
+            "CHL",
+            "FCS",
+            "AGS",
+            "SGA20",
+            "SGA3",
+            "FHC",
+            "SGA12",
+            "SGA16",
+            "OOE",
+            "TTG",
+            "SGA8",
+            "CHD",
+            "FHL",
+            "CRS",
+            "SGA19",
+            "SGA17",
+            "SGA4",
+            "HFT",
+            "FTS",
+            "SGA6",
+            "HIL",
+            "SGA11",
+            "SGA7",
+            "SGA18",
+            "TQL8"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1536331001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "6.90",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.37",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.85",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1536336006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "+1.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.98",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.82",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1536342012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "8.25",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.90",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.25",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.85",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.70",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "10.00",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "23.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "30.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064869",
+        "frontEndId": "FB5836",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.28.UE Conference                                                                                                                   .1.99.AEK Athens                                                                                                                      .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50000014",
+          "name_en": "AEK Athens",
+          "name_ch": "AEK\u96c5\u5178"
+        },
+        "awayTeam": {
+          "id": "50002199",
+          "name_en": "NK Celje",
+          "name_ch": "\u65bd\u6377"
+        },
+        "tournament": {
+          "id": "50054465",
+          "frontEndId": "FB4508",
+          "nameProfileId": "50000113",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEF",
+          "name_en": "UE Conference",
+          "name_ch": "\u6b50\u6d32\u5354\u6703\u806f\u8cfd"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [],
+        "liveEvents": [
+          {
+            "id": "69352752",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "HIL",
+            "HHA",
+            "HFT",
+            "FHL",
+            "FCS",
+            "TTG",
+            "FTS",
+            "FHA",
+            "OOE",
+            "HAD",
+            "CRS"
+          ],
+          "inplayPools": [],
+          "sellingPools": [
+            "HIL",
+            "HHA",
+            "HFT",
+            "FHL",
+            "FCS",
+            "TTG",
+            "FTS",
+            "FHA",
+            "OOE",
+            "HAD",
+            "CRS"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "HIL",
+            "HHA",
+            "HFT",
+            "FHL",
+            "FCS",
+            "TTG",
+            "FTS",
+            "FHA",
+            "OOE",
+            "HAD",
+            "CRS"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1538833001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.16",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "10.00",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.80",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1538844012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "17.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "6.10",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.00",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.65",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.40",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "6.30",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "10.50",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "14.50",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064402",
+        "frontEndId": "FB5822",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.28.UE Conference                                                                                                                   .1.99.Mainz                                                                                                                           .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50002000",
+          "name_en": "Mainz",
+          "name_ch": "\u7dec\u6069\u65af"
+        },
+        "awayTeam": {
+          "id": "50002835",
+          "name_en": "Sigma Olomouc",
+          "name_ch": "\u5967\u6d1b\u6155\u514b"
+        },
+        "tournament": {
+          "id": "50054465",
+          "frontEndId": "FB4508",
+          "nameProfileId": "50000113",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEF",
+          "name_en": "UE Conference",
+          "name_ch": "\u6b50\u6d32\u5354\u6703\u806f\u8cfd"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [],
+        "liveEvents": [
+          {
+            "id": "69352728",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "FHA",
+            "HHA",
+            "HIL",
+            "FTS",
+            "HFT",
+            "CRS",
+            "FHL",
+            "TTG",
+            "HAD",
+            "FCS",
+            "OOE",
+            "TQL9"
+          ],
+          "inplayPools": [],
+          "sellingPools": [
+            "FHA",
+            "HHA",
+            "HIL",
+            "FTS",
+            "HFT",
+            "CRS",
+            "FHL",
+            "TTG",
+            "HAD",
+            "FCS",
+            "OOE",
+            "TQL9"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "FHA",
+            "HHA",
+            "HIL",
+            "FTS",
+            "HFT",
+            "CRS",
+            "FHL",
+            "TTG",
+            "HAD",
+            "FCS",
+            "OOE",
+            "TQL9"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1524452001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.19",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "10.50",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.00",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524463012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "11.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.70",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.50",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.65",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.95",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "7.75",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "16.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "26.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064878",
+        "frontEndId": "FB5838",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T01:45:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773942300.28.UE Conference                                                                                                                   .1.99.Rakow Czestochowa                                                                                                               .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50002571",
+          "name_en": "Rakow Czestochowa",
+          "name_ch": "\u6377\u65af\u6258\u4f50\u83ef"
+        },
+        "awayTeam": {
+          "id": "50001245",
+          "name_en": "Fiorentina",
+          "name_ch": "\u8cbb\u502b\u5929\u62ff"
+        },
+        "tournament": {
+          "id": "50054465",
+          "frontEndId": "FB4508",
+          "nameProfileId": "50000113",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEF",
+          "name_en": "UE Conference",
+          "name_ch": "\u6b50\u6d32\u5354\u6703\u806f\u8cfd"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": {
+          "code": "POL019",
+          "name_en": "ArcelorMittal Park",
+          "name_ch": "\u5b89\u8cfd\u6a02\u7c73\u5854\u723e\u516c\u5712"
+        },
+        "tvChannels": [],
+        "liveEvents": [
+          {
+            "id": "69352760",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "HHA",
+            "FCS",
+            "HIL",
+            "FHA",
+            "HFT",
+            "HDC",
+            "TTG",
+            "FTS",
+            "HAD",
+            "OOE",
+            "CRS",
+            "FHL",
+            "TQL10"
+          ],
+          "inplayPools": [],
+          "sellingPools": [
+            "HHA",
+            "FCS",
+            "HIL",
+            "FHA",
+            "HFT",
+            "HDC",
+            "TTG",
+            "FTS",
+            "HAD",
+            "OOE",
+            "CRS",
+            "FHL",
+            "TQL10"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "HHA",
+            "FCS",
+            "HIL",
+            "FHA",
+            "HFT",
+            "HDC",
+            "TTG",
+            "FTS",
+            "HAD",
+            "OOE",
+            "CRS",
+            "FHL",
+            "TQL10"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1539579001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.50",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.38",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.20",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1539584006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-19T19:37:11.240+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.93",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.87",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1539590012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "9.25",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.10",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.35",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.75",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.40",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "9.25",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "19.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "30.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064883",
+        "frontEndId": "FB5843",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T03:00:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-19T10:36:45.325+08:00",
+        "sequence": "1.1773946800.74.Norwegian Cup                                                                                                                   .0.99.Bryne                                                                                                                           .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50000589",
+          "name_en": "Bryne",
+          "name_ch": "\u62dc\u5c3c"
+        },
+        "awayTeam": {
+          "id": "50000518",
+          "name_en": "Brann",
+          "name_ch": "\u767d\u862d\u6069"
+        },
+        "tournament": {
+          "id": "50064045",
+          "frontEndId": "FB4937",
+          "nameProfileId": "50000081",
+          "isInteractiveServiceAvailable": true,
+          "code": "NWC",
+          "name_en": "Norwegian Cup",
+          "name_ch": "\u632a\u5a01\u76c3"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [],
+        "liveEvents": [],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "SGA12",
+            "SGA2",
+            "OOE",
+            "SGA8",
+            "FHL",
+            "FCS",
+            "HIL",
+            "SGA13",
+            "CRS",
+            "HAD",
+            "TTG",
+            "FTS",
+            "SGA9",
+            "HFT",
+            "SGA18",
+            "SGA4",
+            "SGA19",
+            "SGA5",
+            "SGA14",
+            "SGA7",
+            "FHA",
+            "FCH",
+            "HHA",
+            "HDC",
+            "SGA11",
+            "SGA17",
+            "SGA20",
+            "SGA15",
+            "FHH",
+            "SGA6",
+            "SGA10",
+            "SGA16",
+            "SGA3",
+            "SGA1",
+            "CHL",
+            "TQL10"
+          ],
+          "inplayPools": [
+            "FHL",
+            "FCS",
+            "HIL",
+            "CRS",
+            "HAD",
+            "TTG",
+            "FHA",
+            "HHA",
+            "TQL10"
+          ],
+          "sellingPools": [
+            "SGA12",
+            "SGA2",
+            "OOE",
+            "SGA8",
+            "FHL",
+            "FCS",
+            "HIL",
+            "SGA13",
+            "CRS",
+            "HAD",
+            "TTG",
+            "FTS",
+            "SGA9",
+            "HFT",
+            "SGA18",
+            "SGA4",
+            "SGA19",
+            "SGA5",
+            "SGA14",
+            "SGA7",
+            "FHA",
+            "FCH",
+            "HHA",
+            "HDC",
+            "SGA11",
+            "SGA17",
+            "SGA20",
+            "SGA15",
+            "FHH",
+            "SGA6",
+            "SGA10",
+            "SGA16",
+            "SGA3",
+            "SGA1",
+            "CHL",
+            "TQL10"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "SGA12",
+            "SGA2",
+            "OOE",
+            "SGA8",
+            "FHL",
+            "FCS",
+            "HIL",
+            "SGA13",
+            "CRS",
+            "HAD",
+            "TTG",
+            "FTS",
+            "SGA9",
+            "HFT",
+            "SGA18",
+            "SGA4",
+            "SGA19",
+            "SGA5",
+            "SGA14",
+            "SGA7",
+            "FHA",
+            "FCH",
+            "HHA",
+            "HDC",
+            "SGA11",
+            "SGA17",
+            "SGA20",
+            "SGA15",
+            "FHH",
+            "SGA6",
+            "SGA10",
+            "SGA16",
+            "SGA3",
+            "SGA1",
+            "CHL",
+            "TQL10"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1539679001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.70",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.50",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.95",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1539684006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "+0.5/+1.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.03",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.75",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1539690012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.80",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.60",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.45",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "6.80",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "12.50",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "18.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "14.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.70",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064436",
+        "frontEndId": "FB5830",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T04:00:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773950400.27.UE Cup                                                                                                                          .0.07.Porto                                                                                                                           .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50002490",
+          "name_en": "Porto",
+          "name_ch": "\u6ce2\u5716"
+        },
+        "awayTeam": {
+          "id": "50002994",
+          "name_en": "Stuttgart",
+          "name_ch": "\u53f2\u7279\u52a0"
+        },
+        "tournament": {
+          "id": "50053663",
+          "frontEndId": "FB3534",
+          "nameProfileId": "50000114",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEC",
+          "name_en": "UE Cup",
+          "name_ch": "\u6b50\u9738\u76c3"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [
+          {
+            "code": "639",
+            "name_en": "Now 639",
+            "name_ch": "Now 639"
+          }
+        ],
+        "liveEvents": [
+          {
+            "id": "69351088",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "SGA9",
+            "SGA6",
+            "LGS",
+            "FCS",
+            "SGA3",
+            "SGA16",
+            "OOE",
+            "FHH",
+            "SGA13",
+            "HFT",
+            "SGA7",
+            "HIL",
+            "SGA17",
+            "CRS",
+            "FHA",
+            "SGA12",
+            "FHL",
+            "TTG",
+            "FTS",
+            "AGS",
+            "HAD",
+            "SGA18",
+            "SGA11",
+            "HDC",
+            "CHL",
+            "SGA20",
+            "SGA8",
+            "SGA5",
+            "SGA1",
+            "SGA10",
+            "SGA15",
+            "FCH",
+            "SGA4",
+            "SGA2",
+            "FGS",
+            "SGA14",
+            "SGA19",
+            "HHA",
+            "TQL14"
+          ],
+          "inplayPools": [
+            "FCS",
+            "HIL",
+            "CRS",
+            "FHA",
+            "FHL",
+            "TTG",
+            "HAD",
+            "CHL",
+            "FCH",
+            "HHA",
+            "TQL14"
+          ],
+          "sellingPools": [
+            "SGA9",
+            "SGA6",
+            "LGS",
+            "FCS",
+            "SGA3",
+            "SGA16",
+            "OOE",
+            "FHH",
+            "SGA13",
+            "HFT",
+            "SGA7",
+            "HIL",
+            "SGA17",
+            "CRS",
+            "FHA",
+            "SGA12",
+            "FHL",
+            "TTG",
+            "FTS",
+            "AGS",
+            "HAD",
+            "SGA18",
+            "SGA11",
+            "HDC",
+            "CHL",
+            "SGA20",
+            "SGA8",
+            "SGA5",
+            "SGA1",
+            "SGA10",
+            "SGA15",
+            "FCH",
+            "SGA4",
+            "SGA2",
+            "FGS",
+            "SGA14",
+            "SGA19",
+            "HHA",
+            "TQL14"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "SGA9",
+            "SGA6",
+            "LGS",
+            "FCS",
+            "SGA3",
+            "SGA16",
+            "OOE",
+            "FHH",
+            "SGA13",
+            "HFT",
+            "SGA7",
+            "HIL",
+            "SGA17",
+            "CRS",
+            "FHA",
+            "SGA12",
+            "FHL",
+            "TTG",
+            "FTS",
+            "AGS",
+            "HAD",
+            "SGA18",
+            "SGA11",
+            "HDC",
+            "CHL",
+            "SGA20",
+            "SGA8",
+            "SGA5",
+            "SGA1",
+            "SGA10",
+            "SGA15",
+            "FCH",
+            "SGA4",
+            "SGA2",
+            "FGS",
+            "SGA14",
+            "SGA19",
+            "HHA",
+            "TQL14"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1526188001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.20",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.63",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.35",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1526193006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "0.0/-0.5",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "2.07",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.77",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1526199012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "11.00",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.70",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.55",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.70",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "4.95",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "7.75",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "16.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "20.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": "50064408",
+        "frontEndId": "FB5828",
+        "matchDate": "2026-03-20+08:00",
+        "kickOffTime": "2026-03-20T04:00:00.000+08:00",
+        "status": "PREEVENT",
+        "updateAt": "2026-03-17T19:30:01.278+08:00",
+        "sequence": "1.1773950400.27.UE Cup                                                                                                                          .0.99.Roma                                                                                                                            .000",
+        "esIndicatorEnabled": true,
+        "homeTeam": {
+          "id": "50002647",
+          "name_en": "Roma",
+          "name_ch": "\u7f85\u99ac"
+        },
+        "awayTeam": {
+          "id": "50000489",
+          "name_en": "Bologna",
+          "name_ch": "\u535a\u6d1b\u5c3c\u4e9e"
+        },
+        "tournament": {
+          "id": "50053663",
+          "frontEndId": "FB3534",
+          "nameProfileId": "50000114",
+          "isInteractiveServiceAvailable": true,
+          "code": "UEC",
+          "name_en": "UE Cup",
+          "name_ch": "\u6b50\u9738\u76c3"
+        },
+        "isInteractiveServiceAvailable": true,
+        "inplayDelay": false,
+        "venue": null,
+        "tvChannels": [
+          {
+            "code": "638",
+            "name_en": "Now 638",
+            "name_ch": "Now 638"
+          }
+        ],
+        "liveEvents": [
+          {
+            "id": "69351078",
+            "code": "BETRADAR"
+          }
+        ],
+        "featureStartTime": "",
+        "featureMatchSequence": "",
+        "poolInfo": {
+          "normalPools": [
+            "FTS",
+            "SGA17",
+            "SGA14",
+            "SGA3",
+            "FHA",
+            "SGA6",
+            "HHA",
+            "SGA20",
+            "FCS",
+            "SGA18",
+            "SGA16",
+            "HAD",
+            "HFT",
+            "FCH",
+            "FGS",
+            "HIL",
+            "SGA2",
+            "SGA5",
+            "OOE",
+            "SGA10",
+            "SGA12",
+            "SGA19",
+            "FHL",
+            "CRS",
+            "SGA15",
+            "SGA9",
+            "SGA8",
+            "SGA4",
+            "LGS",
+            "TTG",
+            "FHH",
+            "SGA1",
+            "SGA13",
+            "CHL",
+            "CHD",
+            "SGA11",
+            "AGS",
+            "FHC",
+            "HDC",
+            "SGA7",
+            "TQL13"
+          ],
+          "inplayPools": [
+            "FHA",
+            "HHA",
+            "FCS",
+            "HAD",
+            "FCH",
+            "HIL",
+            "FHL",
+            "CRS",
+            "TTG",
+            "CHL",
+            "TQL13"
+          ],
+          "sellingPools": [
+            "FTS",
+            "SGA17",
+            "SGA14",
+            "SGA3",
+            "FHA",
+            "SGA6",
+            "HHA",
+            "SGA20",
+            "FCS",
+            "SGA18",
+            "SGA16",
+            "HAD",
+            "HFT",
+            "FCH",
+            "FGS",
+            "HIL",
+            "SGA2",
+            "SGA5",
+            "OOE",
+            "SGA10",
+            "SGA12",
+            "SGA19",
+            "FHL",
+            "CRS",
+            "SGA15",
+            "SGA9",
+            "SGA8",
+            "SGA4",
+            "LGS",
+            "TTG",
+            "FHH",
+            "SGA1",
+            "SGA13",
+            "CHL",
+            "CHD",
+            "SGA11",
+            "AGS",
+            "FHC",
+            "HDC",
+            "SGA7",
+            "TQL13"
+          ],
+          "ntsInfo": [],
+          "entInfo": [],
+          "definedPools": [
+            "FTS",
+            "SGA17",
+            "SGA14",
+            "SGA3",
+            "FHA",
+            "SGA6",
+            "HHA",
+            "SGA20",
+            "FCS",
+            "SGA18",
+            "SGA16",
+            "HAD",
+            "HFT",
+            "FCH",
+            "FGS",
+            "HIL",
+            "SGA2",
+            "SGA5",
+            "OOE",
+            "SGA10",
+            "SGA12",
+            "SGA19",
+            "FHL",
+            "CRS",
+            "SGA15",
+            "SGA9",
+            "SGA8",
+            "SGA4",
+            "LGS",
+            "TTG",
+            "FHH",
+            "SGA1",
+            "SGA13",
+            "CHL",
+            "CHD",
+            "SGA11",
+            "AGS",
+            "FHC",
+            "HDC",
+            "SGA7",
+            "TQL13"
+          ],
+          "ngsInfo": [],
+          "agsInfo": []
+        },
+        "runningResult": null,
+        "runningResultExtra": null,
+        "adminOperation": {
+          "remark": null
+        },
+        "foPools": [
+          {
+            "id": "1524609001",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HAD",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.55",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.10",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "D",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.40",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "D",
+                        "name_ch": "\u548c",
+                        "name_en": "Draw"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524614006",
+            "status": "SELLINGSTARTED",
+            "oddsType": "HDC",
+            "instNo": 0,
+            "inplay": false,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "1",
+                "status": "AVAILABLE",
+                "condition": "-0.5/-1.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "H",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.88",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "H",
+                        "name_ch": "\u4e3b\u968a\u52dd",
+                        "name_en": "Home"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "A",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "1.94",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "A",
+                        "name_ch": "\u5ba2\u968a\u52dd",
+                        "name_en": "Away"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "id": "1524620012",
+            "status": "SELLINGSTARTED",
+            "oddsType": "TTG",
+            "instNo": 0,
+            "inplay": true,
+            "name_ch": "",
+            "name_en": "",
+            "updateAt": "2026-03-17T19:30:01.278+08:00",
+            "expectedSuspendDateTime": "",
+            "lines": [
+              {
+                "lineId": "0",
+                "status": "AVAILABLE",
+                "condition": "0.0",
+                "main": true,
+                "combinations": [
+                  {
+                    "combId": "1",
+                    "str": "0",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "7.50",
+                    "selections": [
+                      {
+                        "selId": "1",
+                        "str": "0",
+                        "name_ch": "0",
+                        "name_en": "0"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "2",
+                    "str": "1",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.95",
+                    "selections": [
+                      {
+                        "selId": "2",
+                        "str": "1",
+                        "name_ch": "1",
+                        "name_en": "1"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "3",
+                    "str": "2",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.20",
+                    "selections": [
+                      {
+                        "selId": "3",
+                        "str": "2",
+                        "name_ch": "2",
+                        "name_en": "2"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "4",
+                    "str": "3",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "3.90",
+                    "selections": [
+                      {
+                        "selId": "4",
+                        "str": "3",
+                        "name_ch": "3",
+                        "name_en": "3"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "5",
+                    "str": "4",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "5.90",
+                    "selections": [
+                      {
+                        "selId": "5",
+                        "str": "4",
+                        "name_ch": "4",
+                        "name_en": "4"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "6",
+                    "str": "5",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "10.50",
+                    "selections": [
+                      {
+                        "selId": "6",
+                        "str": "5",
+                        "name_ch": "5",
+                        "name_en": "5"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "7",
+                    "str": "6",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "24.00",
+                    "selections": [
+                      {
+                        "selId": "7",
+                        "str": "6",
+                        "name_ch": "6",
+                        "name_en": "6"
+                      }
+                    ]
+                  },
+                  {
+                    "combId": "8",
+                    "str": "7+",
+                    "status": "AVAILABLE",
+                    "offerEarlySettlement": "Offer",
+                    "currentOdds": "27.00",
+                    "selections": [
+                      {
+                        "selId": "8",
+                        "str": "7+",
+                        "name_ch": "7+",
+                        "name_en": "7+"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}
