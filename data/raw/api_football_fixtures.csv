@@ -1,0 +1,151 @@
+﻿match_id,date,league,season,home_team,away_team,home_goals,away_goals,status
+1532913,2026-03-19T00:30:00+00:00,Copa Do Brasil,2026,Jacuipense,Novorizontino,0.0,0.0,BT
+1494461,2026-03-19T01:00:00+00:00,Liga de Expansión MX,2025,Tlaxcala,Atlante FC,1.0,1.0,2H
+1504902,2026-03-19T01:00:00+00:00,Primera Division,2025,Alianza,Cacahuatique,1.0,0.0,2H
+1504905,2026-03-19T01:00:00+00:00,Primera Division,2025,Municipal Limeño,Platense,2.0,0.0,2H
+1511972,2026-03-19T01:00:00+00:00,Roraimense,2026,Atlético Roraima,Rio Negro RR,1.0,2.0,2H
+1528311,2026-03-19T01:00:00+00:00,CONCACAF Champions League,2026,Club America,Philadelphia Union,1.0,1.0,2H
+1504903,2026-03-19T01:30:00+00:00,Primera Division,2025,FAS,Hércules,1.0,0.0,2H
+1506042,2026-03-19T01:30:00+00:00,Primera A,2026,Deportivo Cali,Santa Fe,0.0,1.0,HT
+1515150,2026-03-19T01:30:00+00:00,US Open Cup,2026,New Mexico United,Cruizers,2.0,2.0,HT
+1526655,2026-03-19T01:30:00+00:00,Liga Nacional,2025,Real Espana,Génesis,1.0,0.0,HT
+1494446,2026-03-19T02:00:00+00:00,Liga de Expansión MX,2025,CDS Tampico Madero,Correcaminos Uat,1.0,0.0,1H
+1499201,2026-03-19T02:00:00+00:00,Liga Nacional,2025,Marquense,Cobán Imperial,1.0,1.0,1H
+1515151,2026-03-19T02:00:00+00:00,US Open Cup,2026,Sacramento Republic,El Farolito,0.0,0.0,1H
+1492543,2026-03-19T02:07:00+00:00,Liga MX,2025,Guadalajara Chivas,Leon,0.0,0.0,1H
+1515152,2026-03-19T02:30:00+00:00,US Open Cup,2026,Alta,Valley 559 FC,0.0,0.0,1H
+1515153,2026-03-19T02:30:00+00:00,US Open Cup,2026,Orange County SC,Laguna United,0.0,0.0,1H
+1515154,2026-03-19T02:30:00+00:00,US Open Cup,2026,Ventura County Fusion,Spokane Velocity,0.0,0.0,1H
+1521524,2026-03-19T03:00:00+00:00,CONCACAF Champions League,2026,Toluca,San Diego,,,NS
+1528138,2026-03-19T03:00:00+00:00,CONCACAF Champions League,2026,Seattle Sounders,Vancouver Whitecaps,,,NS
+1533905,2026-03-19T03:00:00+00:00,Asian Cup Women,2026,Uzbekistan W,Philippines W,,,NS
+1508900,2026-03-19T04:00:00+00:00,OFC Pro League,2026,South Island United,Bula,,,NS
+1508899,2026-03-19T08:00:00+00:00,OFC Pro League,2026,Solomon Kings,South Melbourne,,,NS
+1533881,2026-03-19T09:00:00+00:00,Asian Cup Women,2026,Chinese Taipei W,Korea DPR,,,NS
+1507293,2026-03-19T10:00:00+00:00,Liga 3,2026,Saburtalo II,Guria,,,NS
+1459051,2026-03-19T10:30:00+00:00,Tercera División RFEF - Group 4,2025,Touring,Añorga,,,NS
+1459057,2026-03-19T10:30:00+00:00,Tercera División RFEF - Group 4,2025,Portugalete,Zamudio,,,NS
+1461818,2026-03-19T10:30:00+00:00,Tercera División RFEF - Group 13,2025,SFC Minerva,Atlético Pulpileño,,,NS
+1527461,2026-03-19T10:30:00+00:00,I-League,2025,Chanmari,Shillong Lajong,,,NS
+1391582,2026-03-19T11:00:00+00:00,Premier League,2025,Oleksandria,Dynamo Kyiv,,,NS
+1445910,2026-03-19T11:00:00+00:00,Premyer Liqa,2025,Karvan,Zira,,,NS
+1458152,2026-03-19T11:00:00+00:00,Tercera División RFEF - Group 1,2025,Atlético Arteixo,Coruña,,,NS
+1458156,2026-03-19T11:00:00+00:00,Tercera División RFEF - Group 1,2025,Celta de Vigo III,Cambados,,,NS
+1458158,2026-03-19T11:00:00+00:00,Tercera División RFEF - Group 1,2025,Villalbés,Estradense,,,NS
+1466940,2026-03-19T11:00:00+00:00,Birinci Dasta,2025,Difai Ağsu,Cəbrayıl,,,NS
+1466941,2026-03-19T11:00:00+00:00,Birinci Dasta,2025,Şimal,Zaqatala,,,NS
+1507290,2026-03-19T11:00:00+00:00,Liga 3,2026,Didube 2014,Gardabani,,,NS
+1507294,2026-03-19T11:00:00+00:00,Liga 3,2026,Merani Tbilisi,Betlemi,,,NS
+1507295,2026-03-19T11:00:00+00:00,Liga 3,2026,Irao,Margveti 2006,,,NS
+1514926,2026-03-19T11:00:00+00:00,Super Liga,2025,Floreşti,Sireți,,,NS
+1515996,2026-03-19T11:00:00+00:00,Super League,2026,Andijan,Mash'al,,,NS
+1458154,2026-03-19T11:30:00+00:00,Tercera División RFEF - Group 1,2025,Silva,Celtiga,,,NS
+1458155,2026-03-19T11:30:00+00:00,Tercera División RFEF - Group 1,2025,Noia,Somozas,,,NS
+1525659,2026-03-19T11:30:00+00:00,First League,2025,Hayq,Banants II,,,NS
+1525660,2026-03-19T11:30:00+00:00,First League,2025,Pyunik II,Lernayin Artsakh,,,NS
+1534893,2026-03-19T12:00:00+00:00,Premier League,2025,Jaish,Al Ittihad,,,NS
+1394673,2026-03-19T13:00:00+00:00,Süper Lig,2025,Kayserispor,Fatih Karagümrük,,,NS
+1416135,2026-03-19T13:00:00+00:00,Super League,2025,Green Buffaloes,Konkola Blades,,,NS
+1416136,2026-03-19T13:00:00+00:00,Super League,2025,NAPSA Stars,Man Utd Zambia Academy,,,NS
+1416137,2026-03-19T13:00:00+00:00,Super League,2025,Mutondo Stars,Zanaco,,,NS
+1416138,2026-03-19T13:00:00+00:00,Super League,2025,Nchanga Rangers,ZESCO United,,,NS
+1416139,2026-03-19T13:00:00+00:00,Super League,2025,Power Dynamos,Prison Leopards,,,NS
+1416140,2026-03-19T13:00:00+00:00,Super League,2025,Green Eagles,Kabwe Warriors,,,NS
+1416141,2026-03-19T13:00:00+00:00,Super League,2025,Mufulira Wanderers,Nkana,,,NS
+1416142,2026-03-19T13:00:00+00:00,Super League,2025,Red Arrows,Nkwazi,,,NS
+1457722,2026-03-19T13:00:00+00:00,Ligi kuu Bara,2025,Mashujaa,Azam,,,NS
+1477198,2026-03-19T13:00:00+00:00,Ligi kuu Bara,2025,Pamba Jiji,Simba,,,NS
+1495165,2026-03-19T13:00:00+00:00,Premier Soccer League,2026,Bulawayo Chiefs,Dynamos,,,NS
+1495167,2026-03-19T13:00:00+00:00,Premier Soccer League,2026,Herentals,Agama,,,NS
+1495170,2026-03-19T13:00:00+00:00,Premier Soccer League,2026,Manica Diamonds,Scotland Mabvuku,,,NS
+1500331,2026-03-19T13:00:00+00:00,Ligue A,2025,Ngozi City,Green Farmers FC,,,NS
+1500332,2026-03-19T13:00:00+00:00,Ligue A,2025,Inter Star,Rukinzo,,,NS
+1527462,2026-03-19T13:00:00+00:00,I-League,2025,Sreenidi Deccan,Namdhari,,,NS
+1515210,2026-03-19T13:15:00+00:00,Nasjonal U19 Champions League,2026,Lyn U19,Bodø / Glimt U19,,,NS
+1515997,2026-03-19T13:15:00+00:00,Super League,2026,Buxoro,Dinamo Samarqand,,,NS
+1534564,2026-03-19T13:30:00+00:00,Youth Viareggio Cup,2026,Fiorentina U19,Pistoiese U18,,,NS
+1534565,2026-03-19T13:30:00+00:00,Youth Viareggio Cup,2026,Sassuolo U18,AS Police Viareggio Team,,,NS
+1534566,2026-03-19T13:30:00+00:00,Youth Viareggio Cup,2026,Serie D Viareggio Team,HNK Rijeka U18,,,NS
+1534567,2026-03-19T13:30:00+00:00,Youth Viareggio Cup,2026,Spezia U18,One Touch U18,,,NS
+1507291,2026-03-19T14:00:00+00:00,Liga 3,2026,Dinamo Tbilisi II,Iveria Khashuri,,,NS
+1521308,2026-03-19T14:00:00+00:00,Indian Super League,2025,SC Delhi,Jamshedpur,,,NS
+1512839,2026-03-19T14:30:00+00:00,Elite One,2026,Aigle Royal de Moungo,Jeunes Fauves,,,NS
+1512845,2026-03-19T14:30:00+00:00,Elite One,2026,Victoria United,Panthère,,,NS
+1459141,2026-03-19T14:45:00+00:00,Tercera División RFEF - Group 4,2025,Zarautz,Pasaia KE,,,NS
+1446765,2026-03-19T15:00:00+00:00,NPFL,2026,Niger Tornadoes,Rivers United,,,NS
+1458160,2026-03-19T15:00:00+00:00,Tercera División RFEF - Group 1,2025,Polvorín,Boiro,,,NS
+1507292,2026-03-19T15:00:00+00:00,Liga 3,2026,Gonio,Lokomotivi Tbilisi,,,NS
+1507296,2026-03-19T15:00:00+00:00,Liga 3,2026,Varketili,Iberia 2010,,,NS
+1445913,2026-03-19T15:15:00+00:00,Premyer Liqa,2025,Sabah FA,Sumqayıt,,,NS
+1530178,2026-03-19T15:30:00+00:00,Cup,2025,Krylia Sovetov,Lokomotiv,,,NS
+1391581,2026-03-19T16:00:00+00:00,Premier League,2025,Metalist 1925 Kharkiv,SK Poltava,,,NS
+1442357,2026-03-19T16:00:00+00:00,2. Frauen Bundesliga,2025,Turbine Potsdam W,SC Sand W,,,NS
+1451598,2026-03-19T16:00:00+00:00,First League,2025,Spartak Varna,Ludogorets,,,NS
+1458157,2026-03-19T16:00:00+00:00,Tercera División RFEF - Group 1,2025,Alondras,Barco,,,NS
+1459055,2026-03-19T16:00:00+00:00,Tercera División RFEF - Group 4,2025,Derio,Durango,,,NS
+1462482,2026-03-19T16:00:00+00:00,Tercera División RFEF - Group 15,2025,Huarte,Ardoi,,,NS
+1519512,2026-03-19T16:00:00+00:00,Esiliiga A,2026,Viimsi,Tallinna Kalev,,,NS
+1519516,2026-03-19T16:00:00+00:00,Esiliiga A,2026,Flora II,Nõmme Kalju II,,,NS
+1458153,2026-03-19T16:30:00+00:00,Tercera División RFEF - Group 1,2025,Barbadás,Compostela,,,NS
+1526476,2026-03-19T16:30:00+00:00,Liga Pro Serie B,2026,Cumbayá,Atletico FC,,,NS
+1394669,2026-03-19T17:00:00+00:00,Süper Lig,2025,Beşiktaş,Kasımpaşa,,,NS
+1394674,2026-03-19T17:00:00+00:00,Süper Lig,2025,Konyaspor,Gençlerbirliği S.K.,,,NS
+1530938,2026-03-19T17:00:00+00:00,NM Cupen,2026,KFUM Oslo,Fredrikstad,,,NS
+1462478,2026-03-19T17:30:00+00:00,Tercera División RFEF - Group 15,2025,Bidezarra,Subiza,,,NS
+1528346,2026-03-19T17:45:00+00:00,UEFA Europa League,2025,Lyon,Celta Vigo,,,NS
+1528347,2026-03-19T17:45:00+00:00,UEFA Europa League,2025,FC Midtjylland,Nottingham Forest,,,NS
+1528349,2026-03-19T17:45:00+00:00,UEFA Europa League,2025,SC Freiburg,Genk,,,NS
+1528358,2026-03-19T17:45:00+00:00,UEFA Europa Conference League,2025,AEK Larnaca,Crystal Palace,,,NS
+1528359,2026-03-19T17:45:00+00:00,UEFA Europa Conference League,2025,Raków Częstochowa,Fiorentina,,,NS
+1528364,2026-03-19T17:45:00+00:00,UEFA Europa Conference League,2025,AEK Athens FC,Celje,,,NS
+1528365,2026-03-19T17:45:00+00:00,UEFA Europa Conference League,2025,FSV Mainz 05,Sigma Olomouc,,,NS
+1423032,2026-03-19T18:00:00+00:00,National 1,2025,Quevilly,Dijon,,,NS
+1512242,2026-03-19T18:00:00+00:00,Reserve League,2026,Estudiantes La Plata Res,Independiente Res.,,,NS
+1512254,2026-03-19T18:00:00+00:00,Reserve League,2026,Vélez Sársfield Res.,Godoy Cruz Res.,,,NS
+1507807,2026-03-19T18:30:00+00:00,National Soccer League,2025,Al Merreikh,Muhanga,,,NS
+1529449,2026-03-19T18:30:00+00:00,Friendlies Clubs,2026,Norrby IF,Dalstorps,,,NS
+1531623,2026-03-19T18:30:00+00:00,Liga I,2025,Dinamo Bucuresti,Universitatea Craiova,,,NS
+1512240,2026-03-19T19:00:00+00:00,Reserve League,2026,Colón Res.,Platense Res.,,,NS
+1519288,2026-03-19T19:00:00+00:00,Liga Pro,2026,Aucas,Tecnico Universitario,,,NS
+1530937,2026-03-19T19:00:00+00:00,NM Cupen,2026,Bryne,Brann,,,NS
+1531594,2026-03-19T19:00:00+00:00,Cup,2026,Árbær,Hafnir,,,NS
+1531595,2026-03-19T19:00:00+00:00,Cup,2026,SR,Kári,,,NS
+1531596,2026-03-19T19:00:00+00:00,Cup,2026,KFG,Vídir,,,NS
+1533896,2026-03-19T19:00:00+00:00,CONMEBOL Libertadores U20,2026,Flamengo U20,Olimpia U20,,,NS
+1506568,2026-03-19T19:15:00+00:00,1. Deild,2026,EB / Streymur II,ÍF II,,,NS
+1402331,2026-03-19T19:45:00+00:00,National League - North,2025,Alfreton Town,Hereford,,,NS
+1476869,2026-03-19T20:00:00+00:00,Liga de Ascenso,2025,Cariari Pococi,Aserri FC,,,NS
+1512243,2026-03-19T20:00:00+00:00,Reserve League,2026,Independiente Riva. Res.,Huracán Res.,,,NS
+1512251,2026-03-19T20:00:00+00:00,Reserve League,2026,San Martín San Juan Res.,Ferro 2,,,NS
+1513003,2026-03-19T20:00:00+00:00,MLS Next Pro,2026,New York City II,Toronto II,,,NS
+1528342,2026-03-19T20:00:00+00:00,UEFA Europa League,2025,Aston Villa,Lille,,,NS
+1528343,2026-03-19T20:00:00+00:00,UEFA Europa League,2025,AS Roma,Bologna,,,NS
+1528344,2026-03-19T20:00:00+00:00,UEFA Europa League,2025,FC Porto,VfB Stuttgart,,,NS
+1528345,2026-03-19T20:00:00+00:00,UEFA Europa League,2025,Real Betis,Panathinaikos,,,NS
+1528360,2026-03-19T20:00:00+00:00,UEFA Europa Conference League,2025,Sparta Praha,AZ Alkmaar,,,NS
+1528361,2026-03-19T20:00:00+00:00,UEFA Europa Conference League,2025,Rayo Vallecano,Samsunspor,,,NS
+1528362,2026-03-19T20:00:00+00:00,UEFA Europa Conference League,2025,Strasbourg,HNK Rijeka,,,NS
+1528363,2026-03-19T20:00:00+00:00,UEFA Europa Conference League,2025,Shakhtar Donetsk,Lech Poznan,,,NS
+1531593,2026-03-19T20:00:00+00:00,Cup,2026,Vængir Júpiters,Haukar,,,NS
+1533542,2026-03-19T20:30:00+00:00,Premier League,2025,Harbour View,Spanish Town Police,,,NS
+1533543,2026-03-19T20:30:00+00:00,Premier League,2025,Racing United,Chapelton,,,NS
+1533544,2026-03-19T20:30:00+00:00,Premier League,2025,Tivoli Gardens,Arnett Gardens,,,NS
+1499198,2026-03-19T21:00:00+00:00,Liga Nacional,2025,Aurora,Guastatoya,,,NS
+1526656,2026-03-19T21:00:00+00:00,Liga Nacional,2025,Platense FC,CD Motagua,,,NS
+1506043,2026-03-19T21:10:00+00:00,Primera A,2026,Alianza Valledupar,Jaguares,,,NS
+1519294,2026-03-19T21:30:00+00:00,Liga Pro,2026,Orense SC,Mushuc Runa SC,,,NS
+1492175,2026-03-19T22:00:00+00:00,Serie A,2026,Gremio,Vitoria,,,NS
+1515155,2026-03-19T22:00:00+00:00,US Open Cup,2026,Carolina Core,Virginia Dream,,,NS
+1515156,2026-03-19T22:30:00+00:00,US Open Cup,2026,Charlotte Independence,Ristozi,,,NS
+1515157,2026-03-19T22:30:00+00:00,US Open Cup,2026,Flint City Bucks,Forward Madison,,,NS
+1532914,2026-03-19T22:30:00+00:00,Copa Do Brasil,2026,Juventude,Águia de Marabá,,,NS
+1532916,2026-03-19T22:30:00+00:00,Copa Do Brasil,2026,Maringá,Goias,,,NS
+1492174,2026-03-19T23:00:00+00:00,Serie A,2026,Flamengo,remo,,,NS
+1505024,2026-03-19T23:00:00+00:00,Division Profesional - Apertura,2026,Sportivo Trinidense,Sportivo Ameliano,,,NS
+1512248,2026-03-19T23:00:00+00:00,Reserve League,2026,River Plate Res.,Atlético Tucumán Res.,,,NS
+1515158,2026-03-19T23:00:00+00:00,US Open Cup,2026,Lexington,Flower City Union,,,NS
+1528312,2026-03-19T23:00:00+00:00,CONCACAF Champions League,2026,Mount Pleasant Academy,Los Angeles Galaxy,,,NS
+1532922,2026-03-19T23:00:00+00:00,Copa Do Brasil,2026,Volta Redonda,Barra,,,NS
+1506044,2026-03-19T23:20:00+00:00,Primera A,2026,Deportes Tolima,Fortaleza FC,,,NS
+1515159,2026-03-19T23:30:00+00:00,US Open Cup,2026,Westchester SC,NY Renegades,,,NS
+1533897,2026-03-19T23:30:00+00:00,CONMEBOL Libertadores U20,2026,Palmeiras U20,Santiago Wanderers U20,,,NS
