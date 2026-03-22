@@ -1,0 +1,1231 @@
+{
+  "timestamp": "2026-02-28T07:44:51.619Z",
+  "totalMatches": 36,
+  "recommendations": 4,
+  "predictions": [
+    {
+      "match": {
+        "homeTeam": "Derby County FC",
+        "awayTeam": "Blackburn Rovers FC",
+        "league": "Championship",
+        "time": "2026-02-28T12:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:42:57.565Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Leicester City FC",
+        "awayTeam": "Norwich City FC",
+        "league": "Championship",
+        "time": "2026-02-28T12:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:42:59.395Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Portsmouth FC",
+        "awayTeam": "Hull City AFC",
+        "league": "Championship",
+        "time": "2026-02-28T12:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:01.626Z"
+    },
+    {
+      "match": {
+        "homeTeam": "AFC Bournemouth",
+        "awayTeam": "Sunderland AFC",
+        "league": "Premier League",
+        "time": "2026-02-28T12:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:08.917Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Rayo Vallecano de Madrid",
+        "awayTeam": "Athletic Club",
+        "league": "Primera Division",
+        "time": "2026-02-28T13:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:17.758Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Como 1907",
+        "awayTeam": "US Lecce",
+        "league": "Serie A",
+        "time": "2026-02-28T14:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.47,
+        "draw": 0.26,
+        "awayWin": 0.27,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1791,
+          "away": 1592
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:19.207Z"
+    },
+    {
+      "match": {
+        "homeTeam": "SV Werder Bremen",
+        "awayTeam": "1. FC Heidenheim 1846",
+        "league": "Bundesliga",
+        "time": "2026-02-28T14:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.42,
+        "draw": 0.26,
+        "awayWin": 0.32,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1614,
+          "away": 1595
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:21.702Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Borussia Mönchengladbach",
+        "awayTeam": "1. FC Union Berlin",
+        "league": "Bundesliga",
+        "time": "2026-02-28T14:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.39,
+        "draw": 0.26,
+        "awayWin": 0.35,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1663,
+          "away": 1741
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:23.220Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Bayer 04 Leverkusen",
+        "awayTeam": "1. FSV Mainz 05",
+        "league": "Bundesliga",
+        "time": "2026-02-28T14:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.46,
+        "draw": 0.26,
+        "awayWin": 0.29,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1797,
+          "away": 1679
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:24.750Z"
+    },
+    {
+      "match": {
+        "homeTeam": "TSG 1899 Hoffenheim",
+        "awayTeam": "FC St. Pauli 1910",
+        "league": "Bundesliga",
+        "time": "2026-02-28T14:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.48,
+        "draw": 0.26,
+        "awayWin": 0.27,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1844,
+          "away": 1631
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:43:26.156Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Queens Park Rangers FC",
+        "awayTeam": "Sheffield United FC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:12.077Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Burnley FC",
+        "awayTeam": "Brentford FC",
+        "league": "Premier League",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:13.871Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Charlton Athletic FC",
+        "awayTeam": "Wrexham AFC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:15.644Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Preston North End FC",
+        "awayTeam": "Millwall FC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:17.230Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Ipswich Town FC",
+        "awayTeam": "Swansea City AFC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:18.794Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Sheffield Wednesday FC",
+        "awayTeam": "Southampton FC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1697
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:20.332Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Liverpool FC",
+        "awayTeam": "West Ham United FC",
+        "league": "Premier League",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.44,
+        "draw": 0.26,
+        "awayWin": 0.3,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1697,
+          "away": 1621
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:21.611Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Oxford United FC",
+        "awayTeam": "West Bromwich Albion FC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:23.147Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Coventry City FC",
+        "awayTeam": "Stoke City FC",
+        "league": "Championship",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:24.632Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Newcastle United FC",
+        "awayTeam": "Everton FC",
+        "league": "Premier League",
+        "time": "2026-02-28T15:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.4,
+        "draw": 0.26,
+        "awayWin": 0.34,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1734,
+          "away": 1764
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:26.334Z"
+    },
+    {
+      "match": {
+        "homeTeam": "FC Barcelona",
+        "awayTeam": "Villarreal CF",
+        "league": "Primera Division",
+        "time": "2026-02-28T15:15:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.35,
+        "draw": 0.26,
+        "awayWin": 0.39,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1690,
+          "away": 1845
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:28.075Z"
+    },
+    {
+      "match": {
+        "homeTeam": "AVS",
+        "awayTeam": "CF Estrela da Amadora",
+        "league": "Primeira Liga",
+        "time": "2026-02-28T15:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:29.631Z"
+    },
+    {
+      "match": {
+        "homeTeam": "SC Heerenveen",
+        "awayTeam": "Sparta Rotterdam",
+        "league": "Eredivisie",
+        "time": "2026-02-28T15:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:31.212Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Stade Rennais FC 1901",
+        "awayTeam": "Toulouse FC",
+        "league": "Ligue 1",
+        "time": "2026-02-28T16:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.43,
+        "draw": 0.26,
+        "awayWin": 0.31,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1771,
+          "away": 1713
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:32.522Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Hellas Verona FC",
+        "awayTeam": "SSC Napoli",
+        "league": "Serie A",
+        "time": "2026-02-28T17:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.31,
+        "draw": 0.26,
+        "awayWin": 0.43,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1556,
+          "away": 1816
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:33.827Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Borussia Dortmund",
+        "awayTeam": "FC Bayern München",
+        "league": "Bundesliga",
+        "time": "2026-02-28T17:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.32,
+        "draw": 0.26,
+        "awayWin": 0.42,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1650,
+          "away": 1897
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:35.131Z"
+    },
+    {
+      "match": {
+        "homeTeam": "RCD Mallorca",
+        "awayTeam": "Real Sociedad de Fútbol",
+        "league": "Primera Division",
+        "time": "2026-02-28T17:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.36,
+        "draw": 0.26,
+        "awayWin": 0.38,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1604,
+          "away": 1729
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:36.401Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Leeds United FC",
+        "awayTeam": "Manchester City FC",
+        "league": "Premier League",
+        "time": "2026-02-28T17:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.4,
+        "draw": 0.26,
+        "awayWin": 0.34,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1670,
+          "away": 1700
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:37.766Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Heracles Almelo",
+        "awayTeam": "PSV",
+        "league": "Eredivisie",
+        "time": "2026-02-28T17:45:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:40.263Z"
+    },
+    {
+      "match": {
+        "homeTeam": "AS Monaco FC",
+        "awayTeam": "Angers SCO",
+        "league": "Ligue 1",
+        "time": "2026-02-28T18:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.43,
+        "draw": 0.26,
+        "awayWin": 0.31,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1741,
+          "away": 1677
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:41.621Z"
+    },
+    {
+      "match": {
+        "homeTeam": "CD Nacional",
+        "awayTeam": "Sporting Clube de Braga",
+        "league": "Primeira Liga",
+        "time": "2026-02-28T18:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:43.140Z"
+    },
+    {
+      "match": {
+        "homeTeam": "FC Internazionale Milano",
+        "awayTeam": "Genoa CFC",
+        "league": "Serie A",
+        "time": "2026-02-28T19:45:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.47,
+        "draw": 0.26,
+        "awayWin": 0.27,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1875,
+          "away": 1657
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:44.461Z"
+    },
+    {
+      "match": {
+        "homeTeam": "NEC",
+        "awayTeam": "Fortuna Sittard",
+        "league": "Eredivisie",
+        "time": "2026-02-28T20:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:46.706Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Real Oviedo",
+        "awayTeam": "Club Atlético de Madrid",
+        "league": "Primera Division",
+        "time": "2026-02-28T20:00:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.31,
+        "draw": 0.26,
+        "awayWin": 0.43,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1568,
+          "away": 1829
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:48.017Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Le Havre AC",
+        "awayTeam": "Paris Saint-Germain FC",
+        "league": "Ligue 1",
+        "time": "2026-02-28T20:05:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1660,
+          "away": 1660
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:49.293Z"
+    },
+    {
+      "match": {
+        "homeTeam": "Vitória SC",
+        "awayTeam": "FC Alverca",
+        "league": "Primeira Liga",
+        "time": "2026-02-28T20:30:00Z"
+      },
+      "prediction": {
+        "homeWin": 0.41,
+        "draw": 0.26,
+        "awayWin": 0.33,
+        "confidence": 0.7
+      },
+      "factors": {
+        "elo": {
+          "home": 1500,
+          "away": 1500
+        },
+        "form": {
+          "home": 0.5,
+          "away": 0.5
+        },
+        "attack": {
+          "home": 0.024999999999999998,
+          "away": 0.024999999999999998
+        },
+        "defense": {
+          "home": 0.9783333333333333,
+          "away": 0.9783333333333333
+        }
+      },
+      "model": "Prediction System V6.0 - ML Enhanced",
+      "timestamp": "2026-02-28T07:44:50.807Z"
+    }
+  ]
+}
